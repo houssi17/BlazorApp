@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwG/fGdZUALQGUDJ4xe5W5/qprI4M6vg45U2Peidpw9QwLGzBEKHTA9RODoXJn9ZfBBJorKfgl/oJnUF9V58hQ==",
+  "dgSpecHash": "6Ynp49wQUYiNCkCSY9CaM71Q93CApJd5LN3h9ca7qD+ygrJ6kLUE7X2YR0oxG4K3sLWnBJ/XVSC8/SQFIlE4xQ==",
   "success": true,
-  "projectFilePath": "/home/housa/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/home/housa/blaz/BlazorApp/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

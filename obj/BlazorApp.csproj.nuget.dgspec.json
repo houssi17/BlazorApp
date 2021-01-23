@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/housa/BlazorApp/BlazorApp.csproj": {}
+    "/home/housa/blaz/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/home/housa/BlazorApp/BlazorApp.csproj": {
+    "/home/housa/blaz/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/housa/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/home/housa/blaz/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/home/housa/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/home/housa/blaz/BlazorApp/BlazorApp.csproj",
         "packagesPath": "/home/housa/.nuget/packages/",
-        "outputPath": "/home/housa/BlazorApp/obj/",
+        "outputPath": "/home/housa/blaz/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/housa/.nuget/NuGet/NuGet.Config"
